@@ -5,7 +5,7 @@ module.exports = {
   them: '@vuepress/blog',
   themeConfig: {
     // 网站logo
-    logo: '/logo/logo.jpg',
+    logo: '',
     // 导航栏
     nav: [
       {text: '掘金', link: 'https://juejin.cn/user/515006730085735'},
